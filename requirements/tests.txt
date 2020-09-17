@@ -1,0 +1,5 @@
+-r base.txt
+pytest-coverage==0.0
+pytest-django==3.9.*
+pytest==6.0.*
+hypothesis[django]==5.35.*
